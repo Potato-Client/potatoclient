@@ -6,11 +6,10 @@ Welcome to the official download repository for Potato Client. This repository i
 
 ## Download Potato Client 2.2.0
 
-The 2.2.0 JAR still needs to be attached to a GitHub Release. The old website's JAR was not retrievable through the connected GitHub file interface, so I cannot safely fabricate or replace the client binary.
+The latest release is available now.
 
-When the release asset is uploaded, it should appear here:
-
-- **[View releases and download assets](https://github.com/TotalllyBad/potatoclient/releases)**
+- **[Download Potato Client installer (JAR)](https://github.com/TotalllyBad/potatoclient/releases/download/Potato-Client/potato-client-installer-2.2.0.1.jar)**
+- [View release details and version notes](https://github.com/TotalllyBad/potatoclient/releases/tag/Potato-Client)
 
 ## About Potato Client
 
