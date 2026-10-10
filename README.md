@@ -27,11 +27,17 @@ Preview images and the Potato Client logo should be stored as repository assets 
 
 ## Client screenshots
 
-![Potato Client preview 1](https://raw.githubusercontent.com/TotalllyBad/potatoclientweb/main/potatopreview1.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TotalllyBad/potatoclientweb/main/potatopreview1.png" alt="Potato Client preview 1" width="900" />
+</p>
 
-![Potato Client preview 2](https://raw.githubusercontent.com/TotalllyBad/potatoclientweb/main/potatopreview2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TotalllyBad/potatoclientweb/main/potatopreview2.png" alt="Potato Client preview 2" width="900" />
+</p>
 
-![Potato Client preview 3](https://raw.githubusercontent.com/TotalllyBad/potatoclientweb/main/potatopreview3.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TotalllyBad/potatoclientweb/main/potatopreview3.png" alt="Potato Client preview 3" width="900" />
+</p>
 
 ## Legal notice
 
