@@ -15,10 +15,6 @@ The latest release is available now.
 
 Potato Client is a Minecraft client project. This repository is the home for its public release downloads, version information, screenshots, and installation notes.
 
-## Client previews
-
-Preview images and the Potato Client logo should be stored as repository assets and embedded here once the original files have been committed successfully.
-
 ## Installation
 
 1. Download the official Potato Client 2.2.0 JAR using the link above.
@@ -28,15 +24,15 @@ Preview images and the Potato Client logo should be stored as repository assets 
 ## Client screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TotalllyBad/potatoclientweb/main/potatopreview1.png" alt="Potato Client preview 1" width="900" />
+  <img src="potatopreview1.png" alt="Potato Client preview 1" width="900" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TotalllyBad/potatoclientweb/main/potatopreview2.png" alt="Potato Client preview 2" width="900" />
+  <img src="potatopreview2.png" alt="Potato Client preview 2" width="900" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TotalllyBad/potatoclientweb/main/potatopreview3.png" alt="Potato Client preview 3" width="900" />
+  <img src="potatopreview3.png" alt="Potato Client preview 3" width="900" />
 </p>
 
 ## Legal notice
