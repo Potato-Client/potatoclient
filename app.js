@@ -20,9 +20,7 @@
           });
         })
         .forEach((card) => modGrid.appendChild(card));
-    } catch (error) {
-      // Keep the original order if sorting cannot be completed.
-    }
+    } catch (error) {}
   }
 
   function open(modal) {
