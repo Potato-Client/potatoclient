@@ -8,7 +8,7 @@ Welcome to the official download repository for Potato Client. This repository i
 
 The latest release is available now.
 
-- **[Download Potato Client installer (JAR)](https://github.com/TotalllyBad/potatoclient/releases/download/Potato-Client/potato-client-installer-2.2.0.1.jar)**
+- **[Download Potato Client installer (JAR)](https://github.com/TotalllyBad/potatoclient/releases/download/Potato-Client/potato-client-installer-2.2.0.jar)**
 - [View release details and version notes](https://github.com/TotalllyBad/potatoclient/releases/tag/Potato-Client)
 
 ## About Potato Client
@@ -21,7 +21,7 @@ Preview images and the Potato Client logo should be stored as repository assets 
 
 ## Installation
 
-1. Download the official Potato Client 2.2.0 JAR from the Releases page when available.
+1. Download the official Potato Client 2.2.0 JAR using the link above.
 2. Follow the installation instructions supplied with the client.
 3. Only download releases published by this repository's maintainers.
 
