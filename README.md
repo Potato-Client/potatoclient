@@ -1,4 +1,4 @@
-# Potato Client
+<h1><img src="logo.png" alt="Potato Client logo" width="48" /> Potato Client</h1>
 
 **Potato Client 2.2.0 — Minecraft client release repository**
 
