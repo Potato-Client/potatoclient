@@ -21,6 +21,11 @@ Potato Client is a Minecraft client project. This repository is the home for its
 2. Follow the installation instructions supplied with the client.
 3. Only download releases published by this repository's maintainers.
 
+## Socials
+
+- **Discord:** [Join the Potato Client Discord](https://discord.gg/BrRtTf5gWB)
+- **YouTube:** [@potatoclient](https://www.youtube.com/@potatoclient)
+
 ## Client screenshots
 
 <p align="center">
