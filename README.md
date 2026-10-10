@@ -1,15 +1,37 @@
-# Potato Client
+# 🥔 Potato Client
 
-A stylish static website for Potato Client 2.2.0, with product previews, release notes, theme selector, and an independent-project legal notice.
+**Potato Client 2.2.0 — Minecraft client release repository**
 
-## Publish with GitHub Pages
-In **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/(root)`, then save. GitHub will provide the published website URL.
+Welcome to the official download repository for Potato Client. This repository is intended for releases and public-facing client information—not website hosting.
 
-## Downloads
-The download button currently links to the legacy hosted 2.2.0 JAR at https://potatoclient.vercel.app/potato-client-installer-2.2.0.jar. The old repository's JAR could not be retrieved through GitHub's file API, so it has not been copied into this repository. For a GitHub-hosted download, upload the JAR to a GitHub Release and change the button link to that release asset.
+## ⬇️ Download Potato Client 2.2.0
 
-## Privacy
-This is a static site with no analytics or backend. A public repository exposes all committed files and their history; there is no way to hide selected files inside a public repository. Keep private source files, credentials, and personal data in a private repository, and only commit assets intended for public release.
+**The 2.2.0 JAR still needs to be attached to a GitHub Release.** The old website's JAR was not retrievable through the connected GitHub file interface, so I cannot safely fabricate or replace the client binary.
 
-## Legal
-Potato Client is an independent third-party project. It is not affiliated with, endorsed by, sponsored by, or associated with Mojang Studios or Microsoft. Minecraft and its related names and marks belong to their respective owners. All rights reserved by their respective owners. © Potato Client. All rights reserved.
+When the release asset is uploaded, it should appear here:
+
+- **[View releases and download assets](https://github.com/TotalllyBad/potatoclient/releases)**
+
+## ✨ About Potato Client
+
+Potato Client is a Minecraft client project. This repository is the home for its public release downloads, version information, screenshots, and installation notes.
+
+## 🖼️ Client previews
+
+Preview images and the Potato Client logo should be stored as repository assets and embedded here once the original files have been committed successfully.
+
+## 📦 Installation
+
+1. Download the official Potato Client 2.2.0 JAR from the Releases page when available.
+2. Follow the installation instructions supplied with the client.
+3. Only download releases published by this repository's maintainers.
+
+## ⚖️ Legal notice
+
+Potato Client is an independent third-party project and is **not affiliated with, endorsed by, sponsored by, or associated with Mojang Studios or Microsoft**. Minecraft is a trademark of Microsoft Corporation. All Minecraft names, trademarks, and related assets remain the property of their respective owners.
+
+**© Potato Client. All rights reserved.** This notice does not claim ownership of Minecraft or third-party intellectual property.
+
+## 🔒 Repository privacy
+
+This repository is public, so all committed files and their Git history can be viewed by anyone. Do not put private source code, credentials, or personal files here. Keep those in a separate private repository.
