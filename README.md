@@ -25,6 +25,14 @@ Preview images and the Potato Client logo should be stored as repository assets 
 2. Follow the installation instructions supplied with the client.
 3. Only download releases published by this repository's maintainers.
 
+## Client screenshots
+
+![Potato Client preview 1](https://raw.githubusercontent.com/TotalllyBad/potatoclientweb/main/potatopreview1.png)
+
+![Potato Client preview 2](https://raw.githubusercontent.com/TotalllyBad/potatoclientweb/main/potatopreview2.png)
+
+![Potato Client preview 3](https://raw.githubusercontent.com/TotalllyBad/potatoclientweb/main/potatopreview3.png)
+
 ## Legal notice
 
 Potato Client is an independent third-party project and is **not affiliated with, endorsed by, sponsored by, or associated with Mojang Studios or Microsoft**. Minecraft is a trademark of Microsoft Corporation. All Minecraft names, trademarks, and related assets remain the property of their respective owners.
